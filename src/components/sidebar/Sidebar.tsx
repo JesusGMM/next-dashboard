@@ -58,11 +58,12 @@ export const Sidebar = () => {
               alt="User avatar"
               width={50}
               height={50}
+              // style={{ width: '50px', height: '50px' }}
               priority
             />
           </span>
           <span className="text-sm md:text-base font-bold">
-            Jesus Martinez
+            Fernando Herrera
           </span>
         </a>
       </div>
